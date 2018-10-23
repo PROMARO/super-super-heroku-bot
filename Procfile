@@ -1,1 +1,1 @@
-worker: node bot.js Red-DiscordBot
+worker: red bot.js Red-DiscordBot
